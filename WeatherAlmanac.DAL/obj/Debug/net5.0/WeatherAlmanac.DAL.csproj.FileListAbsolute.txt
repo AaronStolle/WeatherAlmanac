@@ -1,0 +1,16 @@
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\Weather.csv
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\WeatherAlmanac.DAL.deps.json
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\WeatherAlmanac.DAL.dll
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\WeatherAlmanac.DAL.pdb
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\WeatherAlmanac.Core.dll
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\bin\Debug\net5.0\WeatherAlmanac.Core.pdb
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.csproj.AssemblyReference.cache
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.AssemblyInfoInputs.cache
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.AssemblyInfo.cs
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.csproj.CopyComplete
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.dll
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\refint\WeatherAlmanac.DAL.dll
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\WeatherAlmanac.DAL.pdb
+C:\Users\Aaron\Code\cohort-20\demos\WeatherAlmanac\WeatherAlmanac.DAL\obj\Debug\net5.0\ref\WeatherAlmanac.DAL.dll
